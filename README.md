@@ -86,16 +86,16 @@ SQL, Python, ETL processes, data pipelines, Pandas, and NumPy
 ### 📊 GitHub Stats
 
 <p align="left">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohamedabdelmohssen&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdelmohssen&layout=compact&hide_border=true&theme=default" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MohamedAbd-ElMohssen&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbd-ElMohssen&layout=compact&hide_border=true&theme=default" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdelmohssen&theme=default&hide_border=true" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbd-ElMohssen&theme=default&hide_border=true" alt="streak stats" />
 </p>
 
 ---
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=mohamedabdelmohssen&style=flat&color=blue" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=MohamedAbd-ElMohssen&style=flat&color=blue" alt="profile views" />
 </p>
