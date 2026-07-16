@@ -29,12 +29,6 @@ Currently deepening my data warehousing skills and starting to explore cloud dat
 <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" height="40"/>
 </p>
 
-<h3>📊 GitHub Stats</h3>
-<p>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=MohamedAbd-ElMohssen&show_icons=true&theme=default&hide_border=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbd-ElMohssen&layout=compact&hide_border=true&theme=default" />
-</p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MohamedAbd-ElMohssen&style=flat&color=blue" alt="profile views"/>
 </p>
