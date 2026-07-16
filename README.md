@@ -34,6 +34,6 @@ Currently deepening my data warehousing skills and starting to explore cloud dat
 <img src="https://skillicons.dev/icons?i=docker,azure,aws" alt="currently learning" height="40"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MohamedAbd-ElMohssen&style=flat&color=blue" alt="profile views"/>
-</p>
+</p> -->
