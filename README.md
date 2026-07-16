@@ -22,11 +22,16 @@ Currently deepening my data warehousing skills and starting to explore cloud dat
 - 💬 Ask me about SQL, Python, ETL, Pandas, and NumPy
 - 📫 How to reach me: [iammohamedabdelmohssen@gmail.com](mailto:iammohamedabdelmohssen@gmail.com)
 
-<h3>🧰 Tech Stack</h3>
+<h3>🧰 Core Skills</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=python,postgres,mongodb,git,github,linux,docker,azure,aws" alt="tech stack" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=python,postgres,mongodb,git,github,linux" alt="core skills" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql server" height="40"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" height="40"/>
+</p>
+
+<h3>🌱 Currently Learning</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,azure,aws" alt="currently learning" height="40"/>
 </p>
 
 <p align="center">
