@@ -20,10 +20,13 @@ Currently deepening my data warehousing skills and starting to explore cloud dat
 - 👯 Open to collaborating on Python, SQL, and ETL projects
 - 🤝 Looking for guidance on Spark, Airflow, and cloud data engineering
 - 💬 Ask me about SQL, Python, ETL, Pandas, and NumPy
+- 📫 How to reach me: [iammohamedabdelmohssen@gmail.com](mailto:iammohamedabdelmohssen@gmail.com)
 
 <h3>🧰 Tech Stack</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=python,mssql,postgres,mongodb,git,github,anaconda,linux,docker,azure,aws" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mongodb,git,github,linux,docker,azure,aws" alt="tech stack" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql server" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" height="40"/>
 </p>
 
 <h3>📊 GitHub Stats</h3>
@@ -33,5 +36,5 @@ Currently deepening my data warehousing skills and starting to explore cloud dat
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MohamedAbd-ElMohssen&style=flat&color=blue" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=mohamedabdelmohssen&style=flat&color=blue" alt="profile views"/>
 </p>
